@@ -36,6 +36,10 @@ The application contains the following Flow Designer flows:
 
 The SmartDesk application is connected to a GitLab repository using ServiceNow Source Control.
 
+- GitLab Repository: https://gitlab.com/upendrasaikondragunta/smartdesk-servicenow.git
+- ServiceNow Source Control: GitLab
+- Branch: sn_instances/dev401596
+
 ## Platform
 
 - ServiceNow
